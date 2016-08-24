@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="emptylist">The field is empty</string>
+    <string name="min_letters">min 2</string>
+    <string name="nice">Nice</string>
+</resources>
